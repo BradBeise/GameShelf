@@ -404,6 +404,9 @@ FodyWeavers.xsd
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# Custom agents
+.github/agents/
+
 # Local History for Visual Studio Code
 .history/
 
